@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\JsonSerializationUygulama.exe.config
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\JsonSerializationUygulama.exe
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\JsonSerializationUygulama.pdb
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSerializationUygulama.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSerializationUygulama.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSeri.CE7A84EC.Up2Date
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSerializationUygulama.exe
+C:\Users\burak\source\repos\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSerializationUygulama.pdb

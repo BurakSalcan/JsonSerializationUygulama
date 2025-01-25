@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\JsonSerializationUygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33DB8B0F-0D42-464A-97D4-3BC4BEF0B07A}|JsonSerializationUygulama\\JsonSerializationUygulama.csproj|c:\\users\\burak\\source\\repos\\jsonserializationuygulama\\jsonserializationuygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DB8B0F-0D42-464A-97D4-3BC4BEF0B07A}|JsonSerializationUygulama\\JsonSerializationUygulama.csproj|solutionrelative:jsonserializationuygulama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DB8B0F-0D42-464A-97D4-3BC4BEF0B07A}|JsonSerializationUygulama\\JsonSerializationUygulama.csproj|c:\\users\\burak\\source\\repos\\jsonserializationuygulama\\jsonserializationuygulama\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DB8B0F-0D42-464A-97D4-3BC4BEF0B07A}|JsonSerializationUygulama\\JsonSerializationUygulama.csproj|solutionrelative:jsonserializationuygulama\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\JsonSerializationUygulama\\JsonSerializationUygulama\\Urun.cs",
+              "RelativeDocumentMoniker": "JsonSerializationUygulama\\Urun.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\JsonSerializationUygulama\\JsonSerializationUygulama\\Urun.cs",
+              "RelativeToolTip": "JsonSerializationUygulama\\Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:29:05.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\JsonSerializationUygulama\\JsonSerializationUygulama\\Program.cs",
+              "RelativeDocumentMoniker": "JsonSerializationUygulama\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\JsonSerializationUygulama\\JsonSerializationUygulama\\Program.cs",
+              "RelativeToolTip": "JsonSerializationUygulama\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAArwCgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:23:56.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
